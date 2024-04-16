@@ -1,6 +1,0 @@
-train: C:\laragon\www\python\yolov8_custom\train
-val: C:\laragon\www\python\yolov8_custom\val
-
-nc: 1
-
-names: ["rumah"]
